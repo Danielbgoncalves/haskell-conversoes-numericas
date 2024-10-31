@@ -4,7 +4,7 @@
 module Main (main) where
 
 import System.IO (stdout, hSetBuffering, BufferMode(NoBuffering))
-import Biblioteca
+import Biblioteca     
 --import Text.Printf (printf)
 
 -- | Função que  mostra uma mensagem que recolhe uma variável
